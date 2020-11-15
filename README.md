@@ -6,7 +6,7 @@
 
 <a href="https://github.com/shydata/govnets/blob/main/govnetsreport-2020-alexshy-FULLREPORT.pdf"><img src="https://github.com/shydata/govnets/blob/main/_full-rep.png" alt="Полный текст доклада"></a>
 
-<a href="..."><img src="https://github.com/shydata/govnets/blob/main/_ind_poshiv.png" alt="Индивидуальные профили участников исследования"></a>
+<a href="mailto:shydata@pm.me"><img src="https://github.com/shydata/govnets/blob/main/_extensions.png" alt="Индивидуальные профили участников исследования"></a>
 
 Email: [shydata[at]pm.me](mailto:shydata@pm.me)
 
