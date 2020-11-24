@@ -1,5 +1,10 @@
 # Органы власти РФ и социальные сети
 
+Говорят, цифровизация шагает по стране. В чем она проявляется и насколько глубоко проникает; кого затрагивает, а кого нет; и в каких аспектах?
+Данное исследование - первая в своем роде попытка на микроуровне оценить степень вовлеченности органов власти РФ в использование таких сетевых сервисов, как социальные сети.
+
+###Практика и опыт использования социальных сетей органами власти Российской Федерации
+
 <a href="https://github.com/shydata/govnets/blob/main/press-release.md"><img src="https://github.com/shydata/govnets/blob/main/_pr-rel.png" alt="Информационное письмо, 11.11.2020"></a>
 
 <a href="https://github.com/shydata/govnets/blob/main/govnetsreport-2020-alexshy-EXECUTIVESUMMARY.pdf"><img src="https://github.com/shydata/govnets/blob/main/_exec-summ.png" alt="Основные положения доклада"></a>
