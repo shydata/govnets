@@ -5,6 +5,8 @@ __*Говорят, цифровизация шагает по стране. В �
 
 <h3 style="color:RoyalBlue;">Практика и опыт использования социальных сетей органами власти Российской Федерации</h3>
 
+*169 органов власти, 598 экаунтов; данные актуальные на июнь 2020 года*
+
 <a href="https://github.com/shydata/govnets/blob/main/press-release.md"><img src="https://github.com/shydata/govnets/blob/main/_pr-rel.png" alt="Информационное письмо, 11.11.2020"></a>
 
 <a href="https://github.com/shydata/govnets/blob/main/govnetsreport-2020-alexshy-EXECUTIVESUMMARY.pdf"><img src="https://github.com/shydata/govnets/blob/main/_exec-summ.png" alt="Основные положения доклада"></a>
