@@ -19,4 +19,7 @@ __*Говорят, цифровизация шагает по стране. В �
 
 <a href="mailto:shydata@pm.me"><img src="https://github.com/shydata/govnets/blob/main/_extensions.png" alt="Индивидуальные профили участников исследования"></a>
 
+<br>
+<hr>
+
 Email: __*[shydata[at]pm.me](mailto:shydata@pm.me)*__
