@@ -7,15 +7,15 @@ __*Говорят, цифровизация шагает по стране. В �
 
 *169 органов власти, 16 соцсетей и 598 экаунтов; данные актуальные на июнь 2020 года*
 
-Все, что не вошло в отчет, в нашем Twitter: __*[@alexshy_ru](https://twitter.com/alexshy_ru)*__
+Все, что не вошло в отчет, в нашем Twitter: __*[@alexshy_ru](https://twitter.com/alexshy_ru)*__ и Instagram: __*[@alexshy_jr](https://www.instagram.com/alexshy_jr/)*__
 <br>
 <hr>
 
-<a href="https://github.com/shydata/govnets/blob/main/press-release.md"><h3>Информационное письмо></h3></a>
+<a href="https://github.com/shydata/govnets/blob/main/press-release.md"><h3>Информационное письмо</h3></a>
 
-<a href="https://github.com/shydata/govnets/blob/main/govnetsreport-2020-alexshy-EXECUTIVESUMMARY.pdf"><img src="https://github.com/shydata/govnets/blob/main/_exec-summ.png" alt="Основные положения доклада"></a>
+<a href="https://github.com/shydata/govnets/blob/main/govnetsreport-2020-alexshy-EXECUTIVESUMMARY.pdf"><h3>Основные положения доклада</h3></a>
 
-<a href="https://github.com/shydata/govnets/blob/main/govnetsreport-2020-alexshy-FULLREPORT.pdf"><img src="https://github.com/shydata/govnets/blob/main/_full-rep.png" alt="Полный текст доклада"></a>
+<a href="https://github.com/shydata/govnets/blob/main/govnetsreport-2020-alexshy-FULLREPORT.pdf"><h3>Полный текст доклада</h3>></a>
 
 <a href="mailto:shydata@pm.me"><img src="https://github.com/shydata/govnets/blob/main/_extensions.png" alt="Индивидуальные профили участников исследования"></a>
 
