@@ -11,7 +11,7 @@ __*Говорят, цифровизация шагает по стране. В �
 <br>
 <hr>
 
-<p><a href="https://github.com/shydata/govnets/blob/main/press-release.md"><h3>Информационное письмо</h3></a><wbr>(2 стр.)</p>
+<h3><a href="https://github.com/shydata/govnets/blob/main/press-release.md">Информационное письмо</a></h3>
 
 <a href="https://github.com/shydata/govnets/blob/main/govnetsreport-2020-alexshy-EXECUTIVESUMMARY.pdf"><h3>Основные положения доклада</h3></a>
 
