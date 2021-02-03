@@ -25,4 +25,5 @@ __*Говорят, цифровизация шагает по стране. В �
 <hr>
 
 Email: __*[shydata[at]pm.me](mailto:shydata@pm.me)*__
+<br>
 Все, что не вошло в отчет, в нашем Twitter: __*[@alexshy_ru](https://twitter.com/alexshy_ru)*__ и Instagram: __*[@alexshy_jr](https://www.instagram.com/alexshy_jr/)*__
